@@ -27,7 +27,7 @@ Este projeto consiste na criação de uma Stack na AWS utilizando CloudFormation
 - Insight 2: Sempre validar o template antes de criar a Stack para evitar erros.
 
 ## Capturas de Tela
-![Exemplo](images/stack_creation.png)
+- 
 
 ## Referências
 - [Documentação AWS CloudFormation](https://docs.aws.amazon.com/cloudformation/)
